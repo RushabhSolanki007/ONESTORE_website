@@ -1,0 +1,1 @@
+I have created an eCommerce website. In this site, I have created one admin panel that can see the total number of users and sellers that are logged in to the site, and I have also created one seller panel. In this panel, sellers can add their items and the price of each item. On this site, online and offline cash delivery options are also available.
